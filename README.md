@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @jvmascu
+- 👀 I’m interested in learning new technologies
+- 🌱 I’m currently learning Typescript and Net Core
